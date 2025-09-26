@@ -1,0 +1,13 @@
+# Ignore build directory
+build/
+
+
+# Ignore Visual Studio project files
+*.vcxproj
+*.sln
+
+# Ignore MacOS generated files
+.DS_Store
+
+#ignooore
+.vs
